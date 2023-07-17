@@ -3,6 +3,7 @@ git init
 git status
 git add .
 
+hash
 # área de preparação
 git commit -m "msg"
 git log
