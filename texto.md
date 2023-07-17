@@ -11,7 +11,8 @@ git status
 
 # reposotório
 git push
-
+git log
+git log --oneline
 # Configuração inicial do git
 >git config --global user.name "Dgdesignn"
 >git config --global user.email dg2danielgeral@gmail.com
